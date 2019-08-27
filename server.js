@@ -59,4 +59,4 @@ app.use(function (req, res) {
 });
 // run server
 app.listen(port);
-console.log(`BoilerPlate listening on ${port}`);
+console.log(`Tution Hub listening on ${port}`);
