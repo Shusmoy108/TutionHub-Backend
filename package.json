@@ -1,0 +1,35 @@
+{
+  "name": "nodeboilerplate",
+  "version": "1.0.0",
+  "description": "Basic Nodejs Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shusmoy108/NodejsBoilerPlate.git"
+  },
+  "keywords": [
+    "NodeProject"
+  ],
+  "author": "Shusmoy Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shusmoy108/NodejsBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/Shusmoy108/NodejsBoilerPlate#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "bcrypt-nodejs": "0.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.11",
+    "nodemon": "^1.19.1",
+    "objectid": "^3.2.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "validator": "^11.1.0"
+  }
+}
